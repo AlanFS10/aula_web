@@ -1,3 +1,0 @@
- em uma pasta nova , abrir vscode, ir em new terminal e digitar "dotnet new mvc".
-
-no terminal digitar dotnet new -l. para ver os tipos de arquivos que podem se trabalhar
